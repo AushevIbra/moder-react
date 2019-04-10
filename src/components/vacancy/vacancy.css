@@ -1,0 +1,14 @@
+.flexbox-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: stretch;
+    height: 80vh;
+}
+.tender-actions {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
